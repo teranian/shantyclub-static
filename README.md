@@ -1,0 +1,1 @@
+# shantyclub-static
