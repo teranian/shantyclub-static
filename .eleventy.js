@@ -1,17 +1,24 @@
 // 11ty configuration
-module.exports = config => {
+module.exports = function(eleventyConfig)  {
+  eleventyConfig.addPassthroughCopy("src/assets/");
+  eleventyConfig.addPassthroughCopy("src/css/");
 
+  eleventyConfig.addWatchTarget("src/css/");
   // 11ty defaults
-    return {
+  return {
+    
+    dir: {
+      input: 'src',
+      includes: '_includes',
+      output: '_site',
+    },
+    templateFormats: ['md', 'njk', 'html'],
+    markdownTemplateEngine: 'njk',
+    htmlTemplateEngine: 'njk',
+    dataTemplateEngine: 'njk',
+  };
+
       
-      dir: {
-        input: 'src',
-        includes: '_includes',
-        output: '_site',
-      },
-      templateFormats: ['md', 'njk', 'html'],
-      markdownTemplateEngine: 'njk',
-      htmlTemplateEngine: 'njk',
-      dataTemplateEngine: 'njk',
-    };
+    
+    
   }
