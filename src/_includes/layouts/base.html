@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
   {% include "htmlhead.html" %}
+
 </head>
 
-<body>
+<body class="container mx-  p-8 bg-gray-900 text-white">
+
   {{ content | safe }}
+
 </body>
-{% include "htmlfoot.html" %}
+
+  {% include "htmlfoot.html" %}
 </html>
