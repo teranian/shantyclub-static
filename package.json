@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf _site",
-    "start": "npm-run-all --css eleventy",
+    "start": "npx eleventy --serve --watch",
     "css": "tailwindcss -i ./src/css/global.css -o ./_site/css/main.css --watch",
     "build": "npx eleventy"
   },
