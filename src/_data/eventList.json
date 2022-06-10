@@ -1,68 +1,70 @@
-[
-  {
-    "date": "JUL 13",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "JUL 27",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "AUG 10",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "AUG 24",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "SEP 14",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "SEP 28",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "OCT 12",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "OCT 26",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "NOV 9",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "NOV 23",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  },
-  {
-    "date": "DEC 14",
-    "dayOfWeek": "Wednesday",
-    "title": "Shanty Club @ Smith's",
-    "location": "Smith's Alternative, Civic"
-  }
-]
+{
+  "events": [
+    {
+      "date": "JUL 13",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "JUL 27",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "AUG 10",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "AUG 24",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "SEP 14",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "SEP 28",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "OCT 12",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "OCT 26",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "NOV 9",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "NOV 23",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    },
+    {
+      "date": "DEC 14",
+      "dayOfWeek": "Wednesday",
+      "title": "Shanty Club @ Smith's",
+      "location": "Smith's Alternative, Civic"
+    }
+  ]
+}
