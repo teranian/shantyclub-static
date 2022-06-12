@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rm -rf _site",
     "start": "npx eleventy --serve --watch",
-    "css": "tailwindcss -i ./src/assets/css/global.css -o ./_site/assets/css/main.css --watch",
+    "css": "tailwindcss -i ./src/assets/css/global.css -o ./src/assets/css/main.css --watch",
     "build": "npx eleventy"
   },
   "repository": {

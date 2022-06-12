@@ -1,6 +1,7 @@
 // 11ty configuration
 module.exports = function(eleventyConfig)  {
   eleventyConfig.addPassthroughCopy("src/assets/img");
+  eleventyConfig.addPassthroughCopy("src/assets/css/main.css");
 
   eleventyConfig.addWatchTarget("src/assets/css/");
   // 11ty defaults
