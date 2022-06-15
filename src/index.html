@@ -2,18 +2,11 @@
 layout: layouts/base.html
 title: Canberra Shanty Club Events
 ---
+  {% include "partials/nav.html" %}
+  {% include "partials/home-hero.html" %}
 
-<h1 class="font-medium leading-tight text-5xl md:text-7xl mt-0 mb-2 text-white text-center uppercase">Canberra Shanty Club</h1>
-
-<section class="text-gray-400 bg-gray-900 body-font">
-  <img src="/assets/img/CanberraShantyClub-logo.webp" class="mx-auto h-80 w-80" />
-  <p class="font-medium leading-tight text-4xl mt-0 mb-2 text-gray-300 text-center">Upcoming Events</p>
-
-    {% include "partials/eventsList.html" %}
-
+<main class="text-gray-200 bg-gray-900 body-font">
   
-</section>
-
-
-
-
+  
+  {% include "partials/eventsList.html" %}
+</main>
