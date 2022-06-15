@@ -2,66 +2,77 @@
   "events": [
     {
       "date": "JUL 13",
+      "displayDate": "2022-07-13",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "JUL 27",
+      "displayDate": "2022-07-27",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "AUG 10",
+      "displayDate": "2022-08-10",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "AUG 24",
+      "displayDate": "2022-08-24",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "SEP 14",
+      "displayDate": "2022-09-14",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "SEP 28",
+      "displayDate": "2022-09-28",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "OCT 12",
+      "displayDate": "2022-10-12",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "OCT 26",
+      "displayDate": "2022-10-26",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "NOV 9",
+      "displayDate": "2022-11-09",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "NOV 23",
+      "displayDate": "2022-11-23",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
     },
     {
       "date": "DEC 14",
+      "displayDate": "2022-12-14",
       "dayOfWeek": "Wednesday",
       "title": "Shanty Club @ Smith's",
       "location": "Smith's Alternative, Civic"
