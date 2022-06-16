@@ -11,6 +11,10 @@ Visit the production site
 - Image gallery past events
 - Contact Form
 - Social media links
+- About Us / Our Story
+- Our Friends - other Shanty Clubs around the country
+
+## Future features?
 - Song lyrics
 - Set lists
 
