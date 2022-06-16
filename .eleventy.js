@@ -1,7 +1,10 @@
 // 11ty configuration
 module.exports = function(eleventyConfig)  {
   eleventyConfig.addPassthroughCopy("./src/assets/img");
-  eleventyConfig.addPassthroughCopy("./src/assets/css/main.css");
+  eleventyConfig.addPassthroughCopy({
+    "./src/assets/css/main.css": "./assets/css/main.css",
+    "./src/admin/config.yml":"./admin/config.yml",
+  });
 
   // Tell 11ty to watch the Tailwind output file for changes
   eleventyConfig.addWatchTarget("./src/assets/css/main.css");
