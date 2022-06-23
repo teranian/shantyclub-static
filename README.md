@@ -18,3 +18,5 @@ Visit the production site
 - Song lyrics
 - Set lists
 
+# Based on NEAT
+Based on the Eleventy [NEAT](https://github.com/surjithctly/neat-starter.git) starter template ([Netlify CMS](https://www.netlifycms.org/), [Eleventy](https://www.11ty.dev/), [Alpine.js](https://github.com/alpinejs/alpine), [Tailwind CSS](https://tailwindcss.com/)) by Surjith S M ( [@surjithctly](https://surjithctly.in/) ).
