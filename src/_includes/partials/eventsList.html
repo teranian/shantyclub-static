@@ -1,16 +1,18 @@
 {% if eventData.events %}
-<h2 class="font-medium leading-tight text-4xl mt-8 text-gray-300 text-center">
+
+<h2 class="font-medium leading-tight text-4xl mt-8 text-gray-300 text-center drop-shadow-xl  ">
   Upcoming Events
 </h2>
-<ul class="container px-5 py-16 mx-auto text-center ">
 
+<ul class="container px-5 py-16 mx-auto text-center max-w-2xl  ">
+  
   {% for events in eventData.events %}
-  <li class=" flex items-center justify-center max-w-2xl mx-auto border-b last:border-none first: pb-5 mb-5
-border-gray-800 sm:flex-row flex-col">
+  <li class=" flex items-center justify-center mx-auto border-b last:border-none first: p-5 
+border-gray-800 sm:flex-row flex-col bg-gray-900 shadow-black shadow-lg">
 
-    <div class="first:hidden -left-5">
+    {# <div class="first:hidden -left-5">
       <p class="text-right">NEXT GIG</p>
-    </div>
+    </div> #}
 
     <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full text-indigo-400 bg-gray-800 flex-shrink-0">
       <div class="w-12 flex-shrink-0 flex flex-col text-center leading-none">

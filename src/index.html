@@ -4,11 +4,15 @@ title: Canberra Shanty Club
 path: home
 ---
 
-{# 
-<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
+{#
+<div
+  class="container mx-auto lg:h-screen flex flex-col justify-center items-center"
+>
   <h1>
     Welcome to
-    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
+    <strong
+      class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500"
+    >
       {{title}}
     </strong>
   </h1>
@@ -22,12 +26,6 @@ path: home
   {% include "./_includes/partials/content.html" %}
 </div> #}
 
-
-  {% include "./_includes/partials/home-hero.html" %}
-
-<main class="text-gray-200 bg-gray-900 body-font">
-  
-  
+<main class="text-gray-200 body-font">
   {% include "./_includes/partials/eventsList.html" %}
 </main>
-
